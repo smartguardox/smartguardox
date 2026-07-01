@@ -1,11 +1,38 @@
 <h1 align="center">Hi✌️!</h1>
-<h3 align="center">An Experienced Web2 & Web3 Front End Engineer</h3>
+<h3 align="center">I'm a Full Stack Software Engineer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=smartguardianox&label=Profile%20views&color=0e75b6&style=flat" alt="smartguardianox" /> </p> -->
 
 - 🌱 Major Experiences
 
-  • Web2 Development - React.js, Next.js, Vue.js, Angular, Redux, React Query, TanStack Query, JavaScript (ES6+), TypeScript, Material UI, Ant Design, Chakra UI, TailwindCSS, Jest, Cypress, Mocha, Chai, Sinon
+• <b>Programming Languages</b>
+Java, Python, JavaScript (ES5/ES6), C++, TypeScript, PHP, SQL, SCSS, C#
+• AI / LLM & Machine Learning:
+TensorFlow, PySpark , PyTorch, scikit-learn, Pandas, OpenAI API, LangChain, LlamaIndex, Databricks,
+RAG systems, AI Agents, Model Inference APIs
+Web Technologies:
+React, Next.js, Vue.js, Node.js, Django, Flask, FastAPI, Express.js, Angular, AngularJS, RESTful APIs,
+GraphQL, AJAX, ASP.net, Ruby
+Moboile Technologies:
+React Native, Expo, Ionic
+Database Management:
+PostgreSQL, MongoDB, MySQL, SQLite, Microsoft SQL Server, Redis, NoSQL
+Cloud Platforms:
+Amazon Web Services (AWS) - Glue, Redshift, Data Lake, Step Functions, S3, EC2, AWS Elastic Beanstalk;
+Azure; Google Cloud Platform (GCP); Heroku
+DevOps Tools:
+Docker, Kubernetes, Jenkins, CI/CD pipelines, Git, GitLab, GitHub
+Data Processing:
+ETL development, Data Warehousing, Big Data analytics, Performance Tuning and Optimization, Web
+Scraping and Data Scraping
+UI/UX Design:
+Figma, Adobe Photoshop, responsive design principles, Prototyping and Wireframing, Mobile First
+Development
+Agile Methodologies:
+Agile Software Development, Scrum, Jira, Continuous Integration/Continuous Deployment (CI/CD)
+Other Skills:
+API Development and Integration, Front-end and Back-end Development, Data Visualization, Game
+Development, Hosting and Deployment, Remote Work Proficiency
 
   • Web3 Blockchain Development - DeFi, NFT, DApps and DEX, Solidity, Hardhat, web3.js, ethers.js, viem, wagmi, Web3 Modal
 
