@@ -1,50 +1,159 @@
-<h1 align="center">Hi✌️!</h1>
-<h3 align="center">I'm a Full Stack Developer</h3>
+## I'm a Senior Full-Stack Engineer
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=smartguardianox&label=Profile%20views&color=0e75b6&style=flat" alt="smartguardianox" /> </p> -->
+I design and build **end-to-end software products** — from user-facing applications and APIs to distributed backend systems, data platforms, cloud infrastructure, and AI-powered features.
 
-• <b>Programming Languages</b></br>
-Java, Python, JavaScript (ES5/ES6), C++, TypeScript, PHP, SQL, SCSS, C#</br>
-• <b>AI / LLM & Machine Learning</b></br>
-TensorFlow, PySpark , PyTorch, scikit-learn, Pandas, OpenAI API, LangChain, LlamaIndex, Databricks, RAG systems, AI Agents, Model Inference APIs</br>
-• <b>Web Technologies</b></br>
-React, Next.js, Vue.js, Node.js, Django, Flask, FastAPI, Express.js, Angular, AngularJS, RESTful APIs, GraphQL, AJAX, ASP.net, Ruby</br>
-• <b>Moboile Technologies</b></br>
-React Native, Expo, Ionic</br>
-• <b>Database Management</b></br>
-PostgreSQL, MongoDB, MySQL, SQLite, Microsoft SQL Server, Redis, NoSQL</br>
-• <b>Cloud Platforms</b></br>
-Amazon Web Services (AWS) - Glue, Redshift, Data Lake, Step Functions, S3, EC2, AWS Elastic Beanstalk, Azure, Google Cloud Platform (GCP), Heroku</br>
-• <b>DevOps Tools</b></br>
-Docker, Kubernetes, Jenkins, CI/CD pipelines, Git, GitLab, GitHub</br>
-• <b>Data Processing</b></br>
-ETL development, Data Warehousing, Big Data analytics, Performance Tuning and Optimization, Web Scraping and Data Scraping</br>
-• <b>UI/UX Design</b></br>
-Figma, Adobe Photoshop, responsive design principles, Prototyping and Wireframing, Mobile First Development</br>
-• Agile Methodologies</b></br>
-Agile Software Development, Scrum, Jira, Continuous Integration/Continuous Deployment (CI/CD)</br>
-• <b>Other Skills</b></br>
-API Development and Integration, Front-end and Back-end Development, Data Visualization, Game Development, Hosting and Deployment, Remote Work Proficiency</br>
+My strongest focus is **backend engineering, system architecture, and scalable application design**, while combining modern frontend development with **AI/ML and LLM technologies** to build intelligent production software.
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p> -->
+### 🔧 What I Do
 
-<!-- <br>
-<p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smartguardianox&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=smartguardianox&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br><br><br><br><br> -->
+* Architect and develop **end-to-end web applications** from frontend to backend and infrastructure
+* Design scalable **backend platforms, APIs, and distributed services** for production workloads
+* Build modern applications with **React, Next.js, TypeScript, Python, FastAPI, and Node.js**
+* Develop robust **REST, GraphQL, and real-time APIs** with clean service architectures
+* Design **microservices, modular systems, event-driven architectures, and distributed workflows**
+* Build reliable data layers with **PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, and vector databases**
+* Implement **caching, asynchronous processing, queues, workers, concurrency, and event streaming**
+* Design secure application architectures with **authentication, authorization, RBAC, OAuth, and JWT**
+* Integrate external APIs, payment systems, SaaS platforms, storage services, and third-party infrastructure
+* Build and deploy **cloud-native applications** across AWS, GCP, and Azure
+* Containerize and operate production systems with **Docker, Kubernetes, Linux, and CI/CD**
+* Engineer systems for **scalability, reliability, performance, security, and observability**
+* Integrate **LLMs, RAG, AI agents, and ML models** into real-world applications
+* Build AI-powered backend services for **automation, search, knowledge systems, and intelligent workflows**
 
-<!--   [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=smartguardianox&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/smartguardianox) -->
+Always interested in **full-stack engineering, backend architecture, distributed systems, cloud infrastructure, AI/ML, LLM applications, and building products that actually ship.**
 
-<!-- <p align="center">
-  <a>
-    <img height="120" width="150" src="https://github.com/smartguardianox/smartguardianox/blob/main/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smartguardianox&theme=dark&hide_border=true"/>
-    <img height="120" width="150" src="https://github.com/smartguardianox/smartguardianox/blob/main/right.png">
-  </a>
-</p>
+## ⚡ My Skills
 
-<br> -->
+<br />
 
-<!-- ![footer](https://github.com/smartguardianox/smartguardianox/blob/main/footer.jpg) -->
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis" />
+      <br>Redis
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kafka" width="45" height="45" alt="Kafka" />
+      <br>Kafka
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="Google Cloud" />
+      <br>GCP
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+      <br>GitHub
+    </td>
+  </tr>
+</table>
+
+<h3>💻 Full-Stack Engineering</h3>
+
+**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS
+
+**Backend:** Python · FastAPI · Node.js · Django · Express · REST · GraphQL
+
+**Architecture:** Microservices · Distributed Systems · Event-Driven Systems · Modular Architecture · Async Processing
+
+**Data:** PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch
+
+**Messaging:** Kafka · Celery · Redis · Airflow · Spark
+
+<h3>🤖 AI / ML / LLM</h3>
+
+**LLMs:** GPT · Claude · Gemini · Llama · Mistral · Qwen · Hugging Face Transformers
+
+**AI Applications:** RAG · AI Agents · Function Calling · Tool Use · Structured Generation · Multimodal AI
+
+**Machine Learning:** PyTorch · TensorFlow · Scikit-learn · XGBoost · NumPy · Pandas
+
+**Search & Retrieval:** Pinecone · Qdrant · Milvus · Weaviate · pgvector · Elasticsearch
+
+**AI Infrastructure:** vLLM · TensorRT-LLM · Ray · ONNX · CUDA
+
+<h3>☁️ Cloud & DevOps</h3>
+
+**Cloud:** AWS · GCP · Azure
+
+**Infrastructure:** Docker · Kubernetes · Linux · Terraform
+
+**CI/CD:** GitHub Actions · Automated Testing · Deployment Automation
+
+**Engineering:** Monitoring · Logging · Metrics · Tracing · Observability
+
+<h3>🏗️ Engineering Focus</h3>
+
+* Backend architecture and **system design**
+* Scalable APIs and distributed services
+* Full-stack SaaS and web platforms
+* Microservices and event-driven systems
+* Database architecture and data-intensive applications
+* Real-time and asynchronous systems
+* Cloud-native application development
+* High-performance and fault-tolerant services
+* AI-powered backend architectures
+* LLM, RAG, and agent-based applications
+* Production reliability, security, and observability
+* Performance and infrastructure optimization
+
+<h3>🚀 Currently Building</h3>
+
+Software products that bring together **great user experiences, powerful backend systems, reliable infrastructure, and practical AI** — from the first API and database schema to production deployment and intelligent features.
+
+<h3>💡 Engineering Philosophy</h3>
+
+**Design for scale. Build for reliability. Ship for impact.**
+
+I enjoy solving complex engineering problems across the stack and turning them into **clean architectures, scalable systems, and production-ready products**.
